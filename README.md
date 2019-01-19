@@ -1,6 +1,6 @@
 # Steps-to-install-Git-server-and-Client
 
-As Git is a distributed version-control system, it could be used as a server out of the box. Dedicated Git server software helps, amongst other features, to add access control, display the contents of a Git repository via the web, and help managing multiple repositories.  
+As Git is a distributed version-control system, it could be used as a server out of the box. Dedicated Git server software helps, among other features, to add access control, display the contents of a Git repository via the web, and help managing multiple repositories.  It can be used as client called git client, it can also be installed in Windows , Linux and Mac OS.
 
 Install Git To install Git on Windows you will need to download the installer from the Git website(https://git-scm.com/downloads): 
 1.Download the most current version for your operating system by double clicking on the package name
